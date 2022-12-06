@@ -1,0 +1,39 @@
+body {
+    background-image: url("mm.jpg");
+    background-repeat: no-repeat;
+    background-position: left top;
+    background-size: 100%;
+    text-align: center;
+    
+  }
+
+.n{
+    color: rgb(255, 255, 255);
+    font-size: 50px;
+    margin-right: 100px;
+    margin-left: 100px;
+    
+}
+
+.f{
+    color: rgba(206, 206, 206, 0.801);
+    font-size: 25px;
+  
+}
+
+
+
+.ll{
+
+    color: rgb(255, 255, 255);
+    font-size: 50px;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+.mmm{
+    color: rgb(0, 0, 0);
+    font-size: 50px;
+    margin-right: 100px;
+    margin-left: 100px;
+}
